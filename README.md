@@ -1,7 +1,8 @@
-- Hi, I’m @gluon007
+- Hi, I’m shrey sharma
 - I’m interested in learning 
-- programming in c 
-- I’m currently learning web-development & sql 
+- programming in c/c++
+- sql
+- webdev  
 - hungry for more programming skills
 - I’m looking to collaborate on interesting ideas 
 - you can reach me by messaging 
